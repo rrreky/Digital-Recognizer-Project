@@ -1,1 +1,3 @@
-# Digital-Recognizer-Project
+ # Kaggle competition
+ 
+## Digital-Recognizer-Project
